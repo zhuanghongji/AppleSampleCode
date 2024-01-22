@@ -144,6 +144,13 @@ Access and display device sensor data by subscribing to notifications.
 
 - [Link](https://developer.apple.com/tutorials/sample-apps/bubblelevel)
 - [Source](./SampleAppsTutorials/BubbleLevel)
+ 
+### Seismometer
+
+Present dynamic data in custom views.
+
+- [Link](https://developer.apple.com/tutorials/sample-apps/seismometer)
+- [Source](./SampleAppsTutorials/Seismometer)
 
 
 
