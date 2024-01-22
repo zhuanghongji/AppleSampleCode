@@ -151,6 +151,13 @@ Present dynamic data in custom views.
 
 - [Link](https://developer.apple.com/tutorials/sample-apps/seismometer)
 - [Source](./SampleAppsTutorials/Seismometer)
+ 
+### Recognizing Gestures
+
+Update shapes or other content in response to taps, rotations, or other Multi-Touch gestures.
+
+- [Link](https://developer.apple.com/tutorials/sample-apps/recognizinggestures)
+- [Source](./SampleAppsTutorials/RecognizingGestures)
 
 
 
