@@ -22,3 +22,10 @@ Create a single codebase and app target for Mac, iPad, and iPhone.
 
 - [Link](https://developer.apple.com/documentation/swiftui/food_truck_building_a_swiftui_multiplatform_app) 
 - [Source](./FoodTruckBuildingASwiftUIMultiplatformApp)
+
+### Fruta: Building a Feature-Rich App with SwiftUI
+
+Create a shared codebase to build a multiplatform app that offers widgets and an App Clip.
+
+- [Link](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui) 
+- [Source](./FoodTruckBuildingASwFrutaBuildingAFeatureRichAppWithSwiftUIiftUIMultiplatformApp)
