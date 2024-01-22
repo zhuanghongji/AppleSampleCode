@@ -87,7 +87,7 @@ After creating a version of the Landmarks app for watchOS, it’s time to set yo
 Display data from a central source in multiple views.
 
 - [Link](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app)
-- [Source](./SwiftUITutorials/About Me)
+- [Source](./SwiftUITutorials/AboutMe)
  
 ### Choose Your Own Story
 
