@@ -57,3 +57,10 @@ Use navigation links, stacks, destinations, and paths to provide a streamlined e
 
 - [Link](https://developer.apple.com/documentation/swiftui/bringing_robust_navigation_structure_to_your_swiftui_app) 
 - [Source](./BringingRobustNavigationStructureToYourSwiftUIApp)
+
+## Building Widgets Using WidgetKit and SwiftUI
+
+Create widgets to show your app’s content on the Home screen, with custom intents for user-customizable settings.
+
+- [Link](https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui) 
+- [Source](./BuildingWidgetsUsingWidgetKitAndSwiftUI)
