@@ -55,6 +55,13 @@ In the Landmarks app, users can create a profile to express their personality.
 
 - [Link](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls)
 - [Source](./SwiftUITutorials/WorkingWithUIControls)
+
+### Interfacing with UIKit
+
+SwiftUI works seamlessly with the existing UI frameworks on all Apple platforms.
+
+- [Link](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)
+- [Source](./SwiftUITutorials/InterfacingWithUIKit)
   
 
 
