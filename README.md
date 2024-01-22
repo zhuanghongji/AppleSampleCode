@@ -136,3 +136,11 @@ Make your apps stand out by adding background materials, vibrancy, custom graphi
 
 - [Link](https://developer.apple.com/documentation/swiftui/add_rich_graphics_to_your_swiftui_app)
 - [Source](./AddRichGraphicsToYourSwiftUIApp)
+
+
+## Composing custom layouts with SwiftUI
+
+Arrange views in your app’s interface using layout tools that SwiftUI provides.
+
+- [Link](https://developer.apple.com/documentation/swiftui/composing_custom_layouts_with_swiftui)
+- [Source](./ComposingCustomLayoutsWithSwiftUI)
