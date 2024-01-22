@@ -152,3 +152,11 @@ Create engaging SwiftUI Mac apps by incorporating side bars, tables, toolbars, a
 
 - [Link](https://developer.apple.com/documentation/swiftui/building_a_great_mac_app_with_swiftui)
 - [Source](./BuildingAGreatMacAppWithSwiftUI)
+- 
+
+## Focus Cookbook: Supporting and enhancing focus-driven interactions in your SwiftUI app
+
+Create custom focusable views with key-press handlers that accelerate keyboard input and support movement, and control focus programmatically.
+
+- [Link](https://developer.apple.com/documentation/swiftui/focus-cookbook-sample)
+- [Source](./FocusCookbook)
