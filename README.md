@@ -3,6 +3,7 @@
 The official sample code collection for easy viewing.
 
 
+
 ## SwiftUI Tutorials
 
 [https://developer.apple.com/tutorials/swiftui](https://developer.apple.com/tutorials/swiftui)
@@ -77,6 +78,7 @@ After creating a version of the Landmarks app for watchOS, it’s time to set yo
 - [Link](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app)
 - [Source](./SwiftUITutorials/CreatingAmacOSApp)
   
+
 
 ## Sample Apps Tutorials
 
@@ -179,9 +181,6 @@ Explore how to transform hand pose images from the camera into readable data you
 
 - [Link](https://developer.apple.com/tutorials/sample-apps/getstartedwithmachinelearning-recognizegestures)
 - [Source](./SampleAppsTutorials/GetStartedwithMachineLearning)
-
-
-
 
 
 
@@ -344,3 +343,16 @@ Learn how to incorporate SwiftUI views into a UIKit app.
 
 - [Link](https://developer.apple.com/documentation/uikit/views_and_controls/using_swiftui_with_uikit)
 - [Source](./SwiftUI/UsingSwiftUIWithUIKit)
+
+
+
+## SwiftData
+
+[https://developer.apple.com/documentation/SwiftData](https://developer.apple.com/documentation/SwiftData)
+
+### Adopting SwiftData for a Core Data app
+
+Persist data in your app intuitively with the Swift native persistence framework.
+
+- [Link](https://developer.apple.com/documentation/coredata/adopting_swiftdata_for_a_core_data_app)
+- [Source](./SwiftData/AdoptingSwiftDataForACoreDataApp)
