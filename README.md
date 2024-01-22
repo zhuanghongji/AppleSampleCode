@@ -96,3 +96,11 @@ Update your existing app to leverage the benefits of Observation in Swift.
 
 - [Link](https://developer.apple.com/documentation/swiftui/migrating-from-the-observable-object-protocol-to-the-observable-macro)
 - [Source](./ObservationSample)
+
+
+## Monitoring data changes in your app
+
+Show changes to data in your app’s user interface by using observable objects.
+
+- [Link](https://developer.apple.com/documentation/swiftui/monitoring-model-data-changes-in-your-app)
+- [Source](./ObservableObjectSample)
