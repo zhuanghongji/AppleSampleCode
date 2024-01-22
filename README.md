@@ -356,3 +356,10 @@ Persist data in your app intuitively with the Swift native persistence framework
 
 - [Link](https://developer.apple.com/documentation/coredata/adopting_swiftdata_for_a_core_data_app)
 - [Source](./SwiftData/AdoptingSwiftDataForACoreDataApp)
+
+### Adding and editing persistent data in your app
+
+Create a data entry form for collecting and changing data managed by SwiftData.
+
+- [Link](https://developer.apple.com/documentation/swiftdata/adding-and-editing-persistent-data-in-your-app)
+- [Source](./SwiftData/SwiftDataAnimals)
