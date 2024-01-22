@@ -15,3 +15,10 @@ Create an app with persistent data, interactive widgets, and an all new in-app p
 
 - [Link](https://developer.apple.com/documentation/swiftui/backyard-birds-sample) 
 - [Source](./BackyardBirdsBuildingAnAppWithSwiftDataAndWidgets)
+- 
+### Food Truck: Building a SwiftUI multiplatform app
+
+Create a single codebase and app target for Mac, iPad, and iPhone.
+
+- [Link](https://developer.apple.com/documentation/swiftui/food_truck_building_a_swiftui_multiplatform_app) 
+- [Source](./FoodTruckBuildingASwiftUIMultiplatformApp)
