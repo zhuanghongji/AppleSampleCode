@@ -29,3 +29,10 @@ Create a shared codebase to build a multiplatform app that offers widgets and an
 
 - [Link](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui) 
 - [Source](./FoodTruckBuildingASwFrutaBuildingAFeatureRichAppWithSwiftUIiftUIMultiplatformApp)
+
+### Bringing multiple windows to your SwiftUI app
+
+Compose rich views by reacting to state changes and customize your app’s scene presentation and behavior on iPadOS and macOS.
+
+- [Link](https://developer.apple.com/documentation/swiftui/bringing_multiple_windows_to_your_swiftui_app) 
+- [Source](./BringingMultipleWindowsToYourSwiftUIApp)
