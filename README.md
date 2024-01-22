@@ -158,6 +158,13 @@ Update shapes or other content in response to taps, rotations, or other Multi-To
 
 - [Link](https://developer.apple.com/tutorials/sample-apps/recognizinggestures)
 - [Source](./SampleAppsTutorials/RecognizingGestures)
+ 
+### Animating Shapes
+
+Learn how to use shapes and simple animations in SwiftUI.
+
+- [Link](https://developer.apple.com/tutorials/sample-apps/animatingshapes)
+- [Source](./SampleAppsTutorials/AnimatingShapes)
 
 
 
