@@ -102,6 +102,13 @@ Present hierarchical information in a list.
 
 - [Link](https://developer.apple.com/tutorials/sample-apps/dateplanner)
 - [Source](./SampleAppsTutorials/DatePlanner)
+ 
+### Organizing with Grids
+
+Display visual content in an arrangement of rows and columns.
+
+- [Link](https://developer.apple.com/tutorials/sample-apps/organizingwithgrids)
+- [Source](./SampleAppsTutorials/OrganizingWithGrids)
 
 
 
