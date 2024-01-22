@@ -43,3 +43,10 @@ Create, save, and open documents in a SwiftUI multiplatform app.
 
 - [Link](https://developer.apple.com/documentation/swiftui/building_a_document-based_app_with_swiftui) 
 - [Source](./BuildingADocumentBasedAppWithSwiftUI)
+
+## Building a document-based app using SwiftData
+
+Code along with the WWDC presenter to transform an app with SwiftData.
+
+- [Link](https://developer.apple.com/documentation/swiftui/building-a-document-based-app-using-swiftdata) 
+- [Source](./BuildingADocumentBasedAppUsingSwiftData)
