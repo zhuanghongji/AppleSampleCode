@@ -165,6 +165,13 @@ Learn how to use shapes and simple animations in SwiftUI.
 
 - [Link](https://developer.apple.com/tutorials/sample-apps/animatingshapes)
 - [Source](./SampleAppsTutorials/AnimatingShapes)
+ 
+### Previewing the Camera Output
+
+Preview the output from the camera.
+
+- [Link](https://developer.apple.com/tutorials/sample-apps/capturingphotos-camerapreview)
+- [Source](./SampleAppsTutorials/CapturingPhotos)
 
 
 
