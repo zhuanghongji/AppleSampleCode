@@ -88,3 +88,11 @@ Create connections between your app’s data model and views.
 
 - [Link](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app)
 - [Source](./ManagingModelDataSample)
+
+
+## Migrating from the Observable Object protocol to the Observable macro
+
+Update your existing app to leverage the benefits of Observation in Swift.
+
+- [Link](https://developer.apple.com/documentation/swiftui/migrating-from-the-observable-object-protocol-to-the-observable-macro)
+- [Source](./ObservationSample)
