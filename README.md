@@ -9,7 +9,7 @@ The official sample code collection for easy viewing.
 
 ### Creating and combining views
 
-This tutorial guides you through building Landmarks — an app for discovering and sharing the places you love. You’ll start by building the view that shows a landmark’s details.
+This tutorial guides you through building Landmarks.
 
 - [Link](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
 - [Source](./SwiftUITutorials/CreatingAndCombiningViews)
@@ -20,6 +20,13 @@ With the basic landmark detail view set up, you need to provide a way for users 
 
 - [Link](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)
 - [Source](./SwiftUITutorials/BuildingListsAndNavigation)
+
+### Handling user input
+
+In the Landmarks app, a user can flag their favorite places, and filter the list to show just their favorites.
+
+- [Link](https://developer.apple.com/tutorials/swiftui/handling-user-input)
+- [Source](./SwiftUITutorials/HandlingUserInput)
   
 
 
