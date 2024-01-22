@@ -137,6 +137,13 @@ Fetch structured data from a server asynchronously.
 
 - [Link](https://developer.apple.com/tutorials/sample-apps/memecreator)
 - [Source](./SampleAppsTutorials/MemeCreator)
+ 
+### Bubble Level
+
+Access and display device sensor data by subscribing to notifications.
+
+- [Link](https://developer.apple.com/tutorials/sample-apps/bubblelevel)
+- [Source](./SampleAppsTutorials/BubbleLevel)
 
 
 
