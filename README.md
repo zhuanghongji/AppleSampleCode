@@ -50,3 +50,10 @@ Code along with the WWDC presenter to transform an app with SwiftData.
 
 - [Link](https://developer.apple.com/documentation/swiftui/building-a-document-based-app-using-swiftdata) 
 - [Source](./BuildingADocumentBasedAppUsingSwiftData)
+
+## Bringing robust navigation structure to your SwiftUI app
+
+Use navigation links, stacks, destinations, and paths to provide a streamlined experience for all platforms, as well as behaviors such as deep linking and state restoration.
+
+- [Link](https://developer.apple.com/documentation/swiftui/bringing_robust_navigation_structure_to_your_swiftui_app) 
+- [Source](./BringingRobustNavigationStructureToYourSwiftUIApp)
