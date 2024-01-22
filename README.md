@@ -104,3 +104,11 @@ Show changes to data in your app’s user interface by using observable objects.
 
 - [Link](https://developer.apple.com/documentation/swiftui/monitoring-model-data-changes-in-your-app)
 - [Source](./ObservableObjectSample)
+
+
+## Restoring Your App’s State with SwiftUI
+
+Provide app continuity for users by preserving their current activities.
+
+- [Link](https://developer.apple.com/documentation/swiftui/restoring_your_app_s_state_with_swiftui)
+- [Source](./RestoringYourAppsStateWithSwiftUI)
