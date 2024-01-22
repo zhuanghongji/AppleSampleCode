@@ -113,9 +113,18 @@ Provide app continuity for users by preserving their current activities.
 - [Link](https://developer.apple.com/documentation/swiftui/restoring_your_app_s_state_with_swiftui)
 - [Source](./RestoringYourAppsStateWithSwiftUI)
 
+
 ## Loading and Displaying a Large Data Feed
 
 Consume data in the background, and lower memory use by batching imports and preventing duplicate records.
 
 - [Link](https://developer.apple.com/documentation/swiftui/loading_and_displaying_a_large_data_feed)
 - [Source](./LoadingAndDisplayingALargeDataFeed)
+
+
+## Controlling the timing and movements of your animations
+
+Build sophisticated animations that you control using phase and keyframe animators.
+
+- [Link](https://developer.apple.com/documentation/swiftui/controlling-the-timing-and-movements-of-your-animations)
+- [Source](./PhaseAndKeyframeAnimationSample)
