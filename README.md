@@ -9,19 +9,22 @@ Use windows, volumes, and immersive spaces to teach people about the Earth.
 - [Link](https://developer.apple.com/documentation/visionos/world) 
 - [Source](./HelloWorld)
 
+
 ## Backyard Birds: Building an app with SwiftData and widgets
 
 Create an app with persistent data, interactive widgets, and an all new in-app purchase experience.
 
 - [Link](https://developer.apple.com/documentation/swiftui/backyard-birds-sample) 
 - [Source](./BackyardBirdsBuildingAnAppWithSwiftDataAndWidgets)
- 
+
+
 ## Food Truck: Building a SwiftUI multiplatform app
 
 Create a single codebase and app target for Mac, iPad, and iPhone.
 
 - [Link](https://developer.apple.com/documentation/swiftui/food_truck_building_a_swiftui_multiplatform_app) 
 - [Source](./FoodTruckBuildingASwiftUIMultiplatformApp)
+
 
 ## Fruta: Building a Feature-Rich App with SwiftUI
 
@@ -30,12 +33,14 @@ Create a shared codebase to build a multiplatform app that offers widgets and an
 - [Link](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui) 
 - [Source](./FoodTruckBuildingASwFrutaBuildingAFeatureRichAppWithSwiftUIiftUIMultiplatformApp)
 
+
 ## Bringing multiple windows to your SwiftUI app
 
 Compose rich views by reacting to state changes and customize your app’s scene presentation and behavior on iPadOS and macOS.
 
 - [Link](https://developer.apple.com/documentation/swiftui/bringing_multiple_windows_to_your_swiftui_app) 
 - [Source](./BringingMultipleWindowsToYourSwiftUIApp)
+
 
 ## Building a Document-Based App with SwiftUI
 
@@ -44,12 +49,14 @@ Create, save, and open documents in a SwiftUI multiplatform app.
 - [Link](https://developer.apple.com/documentation/swiftui/building_a_document-based_app_with_swiftui) 
 - [Source](./BuildingADocumentBasedAppWithSwiftUI)
 
+
 ## Building a document-based app using SwiftData
 
 Code along with the WWDC presenter to transform an app with SwiftData.
 
 - [Link](https://developer.apple.com/documentation/swiftui/building-a-document-based-app-using-swiftdata) 
 - [Source](./BuildingADocumentBasedAppUsingSwiftData)
+
 
 ## Bringing robust navigation structure to your SwiftUI app
 
@@ -58,9 +65,18 @@ Use navigation links, stacks, destinations, and paths to provide a streamlined e
 - [Link](https://developer.apple.com/documentation/swiftui/bringing_robust_navigation_structure_to_your_swiftui_app) 
 - [Source](./BringingRobustNavigationStructureToYourSwiftUIApp)
 
+
 ## Building Widgets Using WidgetKit and SwiftUI
 
 Create widgets to show your app’s content on the Home screen, with custom intents for user-customizable settings.
 
 - [Link](https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui) 
 - [Source](./BuildingWidgetsUsingWidgetKitAndSwiftUI)
+
+
+## Emoji Rangers: Supporting Live Activities, interactivity, and animations
+
+Offer Live Activities, animate data updates, and add interactivity to widgets.
+
+- [Link](https://developer.apple.com/documentation/widgetkit/emoji_rangers_supporting_live_activities_interactivity_and_animations) 
+- [Source](./EmojiRangersSupportingLiveActivitiesInteractivityAndAnimations)
