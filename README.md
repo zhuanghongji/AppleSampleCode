@@ -69,6 +69,13 @@ This tutorial gives you a chance to apply much of what you’ve already learned 
 
 - [Link](https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app)
 - [Source](./SwiftUITutorials/CreatingAwatchOSApp)
+
+### Creating a macOS app
+
+After creating a version of the Landmarks app for watchOS, it’s time to set your sights on something bigger: bringing Landmarks to the Mac.
+
+- [Link](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app)
+- [Source](./SwiftUITutorials/CreatingAmacOSApp)
   
 
 
