@@ -14,6 +14,18 @@ This tutorial guides you through building Landmarks — an app for discovering a
 - [Link](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
 - [Source](./SwiftUITutorials/CreatingAndCombiningViews)
 
+### Building lists and navigation
+
+With the basic landmark detail view set up, you need to provide a way for users to see the full list of landmarks, and to view the details about each location.
+
+- [Link](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)
+- [Source](./SwiftUITutorials/BuildingListsAndNavigation)
+  
+
+
+
+
+
 
 ## SwiftUI
 
