@@ -34,6 +34,13 @@ Users receive a badge whenever they visit a landmark in their list.
 
 - [Link](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes)
 - [Source](./SwiftUITutorials/DrawingPathsAndShapes)
+
+### Animating views and transitions
+
+When using SwiftUI, you can individually animate changes to views, or to a view’s state, no matter where the effects are.
+
+- [Link](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
+- [Source](./SwiftUITutorials/AnimatingViewsAndTransitions)
   
 
 
