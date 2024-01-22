@@ -363,3 +363,10 @@ Create a data entry form for collecting and changing data managed by SwiftData.
 
 - [Link](https://developer.apple.com/documentation/swiftdata/adding-and-editing-persistent-data-in-your-app)
 - [Source](./SwiftData/SwiftDataAnimals)
+
+### Maintaining a local copy of server data
+
+Create and update a persistent store to cache read-only network data.
+
+- [Link](https://developer.apple.com/documentation/swiftdata/maintaining-a-local-copy-of-server-data)
+- [Source](./SwiftData/SwiftDataLocalDataCacheSample)
