@@ -41,6 +41,13 @@ When using SwiftUI, you can individually animate changes to views, or to a viewâ
 
 - [Link](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
 - [Source](./SwiftUITutorials/AnimatingViewsAndTransitions)
+
+### Composing complex interfaces
+
+The category view for Landmarks shows a vertically scrolling list of horizontally scrolling landmarks.
+
+- [Link](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)
+- [Source](./SwiftUITutorials/ComposingComplexInterfaces)
   
 
 
