@@ -27,6 +27,13 @@ In the Landmarks app, a user can flag their favorite places, and filter the list
 
 - [Link](https://developer.apple.com/tutorials/swiftui/handling-user-input)
 - [Source](./SwiftUITutorials/HandlingUserInput)
+
+### Drawing paths and shapes
+
+Users receive a badge whenever they visit a landmark in their list.
+
+- [Link](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes)
+- [Source](./SwiftUITutorials/DrawingPathsAndShapes)
   
 
 
