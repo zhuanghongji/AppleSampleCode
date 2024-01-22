@@ -48,6 +48,13 @@ The category view for Landmarks shows a vertically scrolling list of horizontall
 
 - [Link](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)
 - [Source](./SwiftUITutorials/ComposingComplexInterfaces)
+
+### Working with UI controls
+
+In the Landmarks app, users can create a profile to express their personality.
+
+- [Link](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls)
+- [Source](./SwiftUITutorials/WorkingWithUIControls)
   
 
 
