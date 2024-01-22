@@ -172,6 +172,13 @@ Preview the output from the camera.
 
 - [Link](https://developer.apple.com/tutorials/sample-apps/capturingphotos-camerapreview)
 - [Source](./SampleAppsTutorials/CapturingPhotos)
+ 
+### Recognizing Gestures with Machine Learning
+
+Explore how to transform hand pose images from the camera into readable data your machine learning model can use to predict gestures.
+
+- [Link](https://developer.apple.com/tutorials/sample-apps/getstartedwithmachinelearning-recognizegestures)
+- [Source](./SampleAppsTutorials/GetStartedwithMachineLearning)
 
 
 
