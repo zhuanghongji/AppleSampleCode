@@ -128,3 +128,11 @@ Build sophisticated animations that you control using phase and keyframe animato
 
 - [Link](https://developer.apple.com/documentation/swiftui/controlling-the-timing-and-movements-of-your-animations)
 - [Source](./PhaseAndKeyframeAnimationSample)
+
+
+## Add Rich Graphics to Your SwiftUI App
+
+Make your apps stand out by adding background materials, vibrancy, custom graphics, and animations.
+
+- [Link](https://developer.apple.com/documentation/swiftui/add_rich_graphics_to_your_swiftui_app)
+- [Source](./AddRichGraphicsToYourSwiftUIApp)
