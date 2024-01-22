@@ -123,6 +123,13 @@ Retrieve and display images from an asset catalog or a photo library.
 
 - [Link](https://developer.apple.com/tutorials/sample-apps/imagegallery)
 - [Source](./SampleAppsTutorials/ImageGallery)
+ 
+### Laying Out Views
+
+Organize, size and align view layouts.
+
+- [Link](https://developer.apple.com/tutorials/sample-apps/layingoutviews)
+- [Source](./SampleAppsTutorials/LayingOutViews)
 
 
 
