@@ -168,3 +168,11 @@ Make your app accessible to everyone by applying accessibility modifiers to your
 
 - [Link](https://developer.apple.com/documentation/swiftui/creating_accessible_views)
 - [Source](./CreatingAccessibleViews)
+
+
+## Using SwiftUI with UIKit
+
+Learn how to incorporate SwiftUI views into a UIKit app.
+
+- [Link](https://developer.apple.com/documentation/uikit/views_and_controls/using_swiftui_with_uikit)
+- [Source](./UsingSwiftUIWithUIKit)
