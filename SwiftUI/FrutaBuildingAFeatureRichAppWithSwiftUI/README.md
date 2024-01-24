@@ -102,3 +102,21 @@ For more information, see [Creating an App Clip with Xcode](https://developer.ap
 To allow users to see some of the app's content as a widget on their iOS Home screen or in the macOS Notification Center, the Xcode project contains targets for widget extensions. Both use code that’s shared across all targets.
 
 For more information, see [WidgetKit](https://developer.apple.com/documentation/widgetkit).
+
+## Screenshots
+
+![1](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/6ea11f4b-2ed0-4077-9bb9-e11549e08c59)
+
+![2](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/461aaf42-7b82-4665-b504-d3d43defc3df)
+
+![3](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/73d4c53e-4007-4749-ae6c-e7b752ae4d3c)
+
+![4](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/0e0997a5-bd9e-45a4-8704-f2da1eac0ca0)
+
+![5](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/c4dfdc3d-ece4-4353-b747-3a3b269ec3c3)
+
+![6](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/204a25c4-39bd-4d92-a988-33c3c6ceba64)
+
+![7](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/d2ef21d4-96c9-492e-b70f-3b8c4954bf5f)
+
+![8](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/da607a09-0e56-4946-ac76-462f47e45b42)
