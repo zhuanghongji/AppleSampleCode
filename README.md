@@ -214,7 +214,7 @@ Create a single codebase and app target for Mac, iPad, and iPhone.
 Create a shared codebase to build a multiplatform app that offers widgets and an App Clip.
 
 - [Link](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui) 
-- [Source](./SwiftUI/FoodTruckBuildingASwFrutaBuildingAFeatureRichAppWithSwiftUIiftUIMultiplatformApp)
+- [Source](./SwiftUI/FrutaBuildingAFeatureRichAppWithSwiftUI)
 
 ### Bringing multiple windows to your SwiftUI app
 
