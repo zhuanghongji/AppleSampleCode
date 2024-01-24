@@ -148,3 +148,34 @@ SubscriptionStoreView(
 }
 ```
 
+## Screenshots
+
+![1](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/2a6567ae-4ef8-4b25-9910-5384f99edfb3)
+
+![2](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/24bcf985-13e7-446c-a295-1b83d4d033ab)
+
+![3](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/099dc647-9675-46ed-b1b8-69b62898fc11)
+
+![4](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/e554275f-81a4-484e-91f7-ab80de5e8eb5)
+
+![5](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/aa39b705-0b6a-4bb9-83e5-653e483a5a3e)
+
+![6](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/c9ca5fce-82de-4b4b-8f21-ae013c6e372e)
+
+![7](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/4772b9dd-319e-473b-a772-0bc7e3114eb7)
+
+![8](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/b663033b-f8b1-425d-a519-d94a386d6640)
+
+![9](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/dd4fdf95-852c-4411-b1d3-3fa73bdcdf6d)
+
+![10](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/9a2c6aca-feed-447e-b9ba-c4f1890a707c)
+
+![11](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/82ce5279-10c1-4e70-a29c-b9850bf770b5)
+
+![12](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/f7ebbaf9-da8e-44d5-b0b4-a7a1e919ed9d)
+
+![13](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/6511d923-773b-4df1-813f-a5b722964ce4)
+
+![14](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/751b34f6-206f-434f-8fef-4562eac81897)
+
+![15](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/a323c749-5095-4839-840f-64dda23ac5be)
