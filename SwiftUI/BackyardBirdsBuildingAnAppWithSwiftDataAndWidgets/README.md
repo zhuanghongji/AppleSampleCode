@@ -179,3 +179,7 @@ SubscriptionStoreView(
 ![14](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/751b34f6-206f-434f-8fef-4562eac81897)
 
 ![15](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/a323c749-5095-4839-840f-64dda23ac5be)
+
+![16](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/a62e135a-ba41-43c0-b325-6f0fcd1562d5)
+
+![17](https://github.com/zhuanghongji/AppleSampleCode/assets/11421799/92ebf169-cda9-4554-b310-98c8726df4c4)
